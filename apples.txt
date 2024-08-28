@@ -3,3 +3,5 @@ Honeycrisp
 Jonagold
 Gala
 Fuji
+Braeburn
+Golden Delicious
